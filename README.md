@@ -14,7 +14,7 @@ The functions are all realted to holding a database and filtering it in order to
 
 > Filtering the Data
 
-![Filters](https://github.com/dpiedra86/UFOs/blob/main/images/Filters.png)
+![Filters](https://github.com/dpiedra86/UFOs/blob/main/images/Filters.jpg)
 Fig. 1
 
 
